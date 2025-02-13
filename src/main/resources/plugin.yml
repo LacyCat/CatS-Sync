@@ -1,0 +1,5 @@
+name: CatS-sync
+version: '5'
+main: cat.LacyCat.catSSync.CatSSync
+api-version: '1.21'
+authors: [ LacyCat ]
